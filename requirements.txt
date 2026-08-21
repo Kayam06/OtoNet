@@ -1,0 +1,22 @@
+# Core ML/DL
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Data & Utils
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+opencv-python>=4.8.0
+Pillow>=9.5.0
+
+# Model Explainability
+grad-cam>=1.4.8
+
+# Evaluation
+scikit-learn>=1.2.0
+
+# Report Generation
+fpdf>=1.7.2

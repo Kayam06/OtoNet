@@ -1,0 +1,11 @@
+               precision    recall  f1-score   support
+
+          aom     0.2000    0.1111    0.1429        18
+         csom     0.0930    0.5714    0.1600         7
+       earwax     0.4382    0.7959    0.5652        49
+       normal     0.0000    0.0000    0.0000        53
+otitisexterna     0.0000    0.0000    0.0000        21
+
+     accuracy                         0.3041       148
+    macro avg     0.1462    0.2957    0.1736       148
+ weighted avg     0.1738    0.3041    0.2121       148
